@@ -1,0 +1,16 @@
+{
+  "name": "shelter-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/database": "^0.3.3",
+    "firebase": "^5.0.4",
+    "firebase-admin": "^5.12.1"
+  }
+}
